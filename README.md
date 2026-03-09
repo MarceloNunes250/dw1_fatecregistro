@@ -1,2 +1,2 @@
-# dw1_fatecregistro
+# dw1-fatecregistro
 Material das aulas de Desenvolvimento Web da FATEC registro
